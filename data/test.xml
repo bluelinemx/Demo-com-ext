@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante
+        xmlns:cfdi="http://www.sat.gob.mx/cfd/3"
+        xmlns:cce11="http://www.sat.gob.mx/ComercioExterior11"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd  http://www.sat.gob.mx/ComercioExterior11 http://www.sat.gob.mx/sitio_internet/cfd/ComercioExterior11/ComercioExterior11.xsd"
+        Version="3.3" Folio="83" Fecha="2018-02-16T18:28:38"
+        Sello="B3BONw+/xGvmj31XLIu6NIQDQWhH8lP8QU7PIZ04Wa1fi65yhBqzx11cASMrtknB2O9zw5OoTbRp3CZN+BjtRoRyaeyZOLM62DoSyJ6zQLz7thDrbAOdcMuzCCEUtCMT7+PwZqobhnPv8cLYb+0vy+VJ+TvhUYZBS8LxPufvTl+flibwIkLBw0uX9NdGs1uHjv9a+nxfYuXYxUCu1lDPWCvFpsD3f5uKNM41GQ1pyKFSZBsC8psNeO8vS3/w/CeUGaviltY/iyMICebxXMiTVH0s/+bUmOIcghv4e7XACaksmuaZ2EGS1zdW41EUz50AscmxVrhjvw2wx7RJcSj5GA=="
+        FormaPago="99" NoCertificado="00001000000404889312"
+        Certificado="MIIGRjCCBC6gAwIBAgIUMDAwMDEwMDAwMDA0MDQ4ODkzMTIwDQYJKoZIhvcNAQELBQAwggGyMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMV0wWwYJKoZIhvcNAQkCDE5SZXNwb25zYWJsZTogQWRtaW5pc3RyYWNpw7NuIENlbnRyYWwgZGUgU2VydmljaW9zIFRyaWJ1dGFyaW9zIGFsIENvbnRyaWJ1eWVudGUwHhcNMTcwMTE5MTk1NTIzWhcNMjEwMTE5MTk1NTIzWjCB5jEvMC0GA1UEAxMmSE9MREVOIEFNRVJJQ0EgREUgTUVYSUNPIFMgREUgUkwgREUgQ1YxLzAtBgNVBCkTJkhPTERFTiBBTUVSSUNBIERFIE1FWElDTyBTIERFIFJMIERFIENWMS8wLQYDVQQKEyZIT0xERU4gQU1FUklDQSBERSBNRVhJQ08gUyBERSBSTCBERSBDVjElMCMGA1UELRMcSEFNMTYwODMwR1MyIC8gRUlDUjgzMDEyMTJWNTEeMBwGA1UEBRMVIC8gRUlDUjgzMDEyMUhDTFNTQjA5MQowCAYDVQQLEwFBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg6c++MX3Yq2ifQllVDjCRqYAjoatm5Q3eFl3UhnJ3QFxslZV02PF/h2GKJqjAdKUYT6+CgJms9pjqbB4SDGjKTxKCRUjUxQfaPN/vwBwZtN9A140xjekY4BUXP0AAO01vH0ldXMOhko3Ix5jqpNKxQDY8enD8hp9pwuyln0gfYX9whyUd0WlsVjS/251teU3j0qS4MyhOrBh441Ew0eHRItUWkt58bVOcrf7u6PdwuecmiQUPxbCdYytW9oyImcB99n3X6iyVsUrJWQR8Z/ox2AF7Gk5ULWq73s96ZuZDNntHhRHV6NAq3m/LNb/60j7FJY4Yd2T8f0rohvpNIVycwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQsFAAOCAgEAHgQixBPoIe+91vSzLvcsvqPi5O+D+g4S6QtwZQBZ1qaVM0PoEcCacgKBFUx07LOAYSFcJq8Ea6h9gibhCQb+tFikuQsnuK8iO3f+mjuv9nk/PrTZsirPwbtJBJAicypAJ8V+VkyRU6E3juu0O32IXrzgspvQwgSIAD1RIE+M3iXL1hzOgYSzqK2WG6JgJaVNdb8anIJkZ37X3k8ZAZf5H9Qf/WONK0vaN7yMN8yeJHfhs2YhHlfTQOu7hbC7MY9j4OWmxCX8LWwlwnnIRem0XWhCDjynKp8LyRpXpwY0DmpdNWNb8yIzCLY00KYYmzDVU6chJhRzfLPtv85eG4hCTVLHAN+AGLWNHyHwvxAP+j4pGYlofHdwvEjVzGLxJBrcXk8pMsLQXuoxeQv3Cj83F577B7szbNEBZOIon2TG26VgsbA1oTVrRPhZQdIB+fhEcih9hB3F6QVeyO/Q4mditjh30+VjTmCjECGN6OEUpuSXJ8zPJKJGO/V6p8eiNZlM6FNSpPDJRry4bHZ9xg00gUdlbvtal+WP4Csqs65MsclcnrluCz9//WGFojK0IbndFFakCj5YnsPgtR4d20O1tCyKh3DOIdi9rzPzTRO+JeqT4G6q8PvelIUNGxBR+gRofwoq2nirjqF4tHlu7CAG5WEHN9TOEyqpZEtT3xXOnGQ="
+        SubTotal="23629.64" TipoCambio="18.6025" Moneda="USD" Total="23629.64" TipoDeComprobante="I" MetodoPago="PPD"
+        LugarExpedicion="25900">
+    <cfdi:Emisor RegimenFiscal="601" Rfc="HAM160830GS2"
+                 Nombre="HOLDEN AMERICA DE MEXICO S. DE R.L. DE C.V."></cfdi:Emisor>
+    <cfdi:Receptor Rfc="XEXX010101000" Nombre="HOLDEN AMERICA ILL, LLC" ResidenciaFiscal="USA" NumRegIdTrib="412100988"
+                   UsoCFDI="P01"></cfdi:Receptor>
+    <cfdi:Conceptos>
+        <cfdi:Concepto ClaveProdServ="25121700" ClaveUnidad="H87" Cantidad="151.00" Unidad="PIEZA"
+                       NoIdentificacion="1547" Descripcion="ABR RED" ValorUnitario="1.96" Importe="295.96">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="295.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="25121700" ClaveUnidad="H87" Cantidad="154.00" Unidad="PIEZA"
+                       NoIdentificacion="1548" Descripcion="ABR GREEN" ValorUnitario="1.96" Importe="301.84">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="301.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="25121700" ClaveUnidad="H87" Cantidad="1404.00" Unidad="PIEZA"
+                       NoIdentificacion="GLC3200" Descripcion="BLOCK CHOCK GLC 3200" ValorUnitario="1.96"
+                       Importe="2751.84">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2751.84" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000"
+                                   Importe="0.00"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="25121700" ClaveUnidad="H87" Cantidad="1300.00" Unidad="PIEZA"
+                       NoIdentificacion="7040" Descripcion="GRIP LOCK CHOCK GLC 7040 (RED)" ValorUnitario="7.80"
+                       Importe="10140.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="10140.00" Impuesto="002" TipoFactor="Exento"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto ClaveProdServ="25121700" ClaveUnidad="H87" Cantidad="1300.00" Unidad="PIEZA"
+                       NoIdentificacion="7041" Descripcion="GRIP LOCK CHOCK GLC 7041 (GREEN)" ValorUnitario="7.80"
+                       Importe="10140.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="10140.00" Impuesto="002" TipoFactor="Exento"/>
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+        <cfdi:Traslados>
+            <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00"/>
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+    <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital
+                xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"
+                xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1"
+                UUID="EA6B2802-6F3E-40B6-B572-AF963F76C2EF" FechaTimbrado="2018-02-16T18:30:50"
+                RfcProvCertif="MAS0810247C0"
+                SelloCFD="B3BONw+/xGvmj31XLIu6NIQDQWhH8lP8QU7PIZ04Wa1fi65yhBqzx11cASMrtknB2O9zw5OoTbRp3CZN+BjtRoRyaeyZOLM62DoSyJ6zQLz7thDrbAOdcMuzCCEUtCMT7+PwZqobhnPv8cLYb+0vy+VJ+TvhUYZBS8LxPufvTl+flibwIkLBw0uX9NdGs1uHjv9a+nxfYuXYxUCu1lDPWCvFpsD3f5uKNM41GQ1pyKFSZBsC8psNeO8vS3/w/CeUGaviltY/iyMICebxXMiTVH0s/+bUmOIcghv4e7XACaksmuaZ2EGS1zdW41EUz50AscmxVrhjvw2wx7RJcSj5GA=="
+                NoCertificadoSAT="00001000000404486074"
+                SelloSAT="jgvM83ravYs1nYAhTSCVsyjGuTNC81WKoaYhk+ur1kDDl8Chv/mFpcLWxrEwaJaksXeqlDxMrEqHy7AcxDZqDZSJQluzBictya4LV1wAhjsddqfzHbxRPBDJYeMhUx4Uu6zPOvTP4n9sOF1dZT9iw9nbQXW4IEE0SWuHog/WdAHC7q8oUlGo19pfm4Hn5EaQqGEupxWgsFw1OvN1lgiQD80hCgj98mMG1+IDui6S5xdJXTV10iEGZd+F8d7jQTYxjYN9AYvhWSaoG4oFVdSO0Iu/nbpqBSOCoQUeQRN/89BQPm6ah7Bnsz7izPvMBmhSLX/vbu3bOnD6IsdVrY1aiQ=="/>
+        <cce11:ComercioExterior Version="1.1" TipoOperacion="2" ClaveDePedimento="A1" CertificadoOrigen="0"
+                                Incoterm="DAP" Subdivision="0" TipoCambioUSD="18.602500" TotalUSD="23629.64">
+            <cce11:Emisor>
+                <cce11:Domicilio Calle="PASEO DE LOS LAURELES" NumeroExterior="400" Colonia="0621" Localidad="16"
+                                 Municipio="027" Estado="COA" Pais="MEX" CodigoPostal="25900"/>
+            </cce11:Emisor>
+            <cce11:Receptor>
+                <cce11:Domicilio Calle="S. OAK PARK AVE." NumeroExterior="6235" Colonia="S. OAK PARK AVE."
+                                 Localidad="CHICAGO" Estado="IL" Pais="USA" CodigoPostal="60638"/>
+            </cce11:Receptor>
+            <cce11:Mercancias>
+                <cce11:Mercancia NoIdentificacion="1547" FraccionArancelaria="84798999" CantidadAduana="151.000"
+                                 UnidadAduana="06" ValorUnitarioAduana="1.96" ValorDolares="295.96"></cce11:Mercancia>
+                <cce11:Mercancia NoIdentificacion="1548" FraccionArancelaria="84798999" CantidadAduana="154.000"
+                                 UnidadAduana="06" ValorUnitarioAduana="1.96" ValorDolares="301.84"></cce11:Mercancia>
+                <cce11:Mercancia NoIdentificacion="GLC3200" FraccionArancelaria="84798999" CantidadAduana="1404.000"
+                                 UnidadAduana="06" ValorUnitarioAduana="1.96" ValorDolares="2751.84"></cce11:Mercancia>
+                <cce11:Mercancia NoIdentificacion="7040" FraccionArancelaria="84798999" CantidadAduana="1300.000"
+                                 UnidadAduana="06" ValorUnitarioAduana="7.80" ValorDolares="10140.00"></cce11:Mercancia>
+                <cce11:Mercancia NoIdentificacion="7041" FraccionArancelaria="84798999" CantidadAduana="1300.000"
+                                 UnidadAduana="06" ValorUnitarioAduana="7.80" ValorDolares="10140.00"></cce11:Mercancia>
+            </cce11:Mercancias>
+        </cce11:ComercioExterior>
+    </cfdi:Complemento>
+</cfdi:Comprobante>
